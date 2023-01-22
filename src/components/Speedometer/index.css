@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  padding: 5px;
+}
+.image {
+  height: 280px;
+  padding-left: 30%;
+  margin-top: 5px;
+}
+
+.heading {
+  color: #ffffff;
+}
+p {
+  color: #94a3b8;
+}
+.button-one {
+  color: #ffffff;
+  background-color: #0b69ff;
+  padding: 10px;
+  border: 5px #0b69ff;
+  border-radius: 5px;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.button-two {
+  color: #ffffff;
+  background-color: transparent;
+  padding: 8px;
+  border-width: 2px;
+  border-color: #ffffff;
+  border-radius: 5px;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.con-2 {
+  text-align: center;
+}
+.main {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 55px;
+}
